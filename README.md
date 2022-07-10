@@ -1,4 +1,4 @@
-# Facial-Recognition
+# Face Detection
 # Facial Recognition (EMOJI PICKER)
 import tkinter as tk
 from tkinter import *
